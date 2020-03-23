@@ -31,7 +31,7 @@ public class Hewan {
         Anjing anjing = new Anjing(true);
         Ikan ikan = new Ikan(false);
         
-        hewan.info("18090127", "Faqih Zada I");
+        hewan.info("18090057", "Qirani Rifa Annisa");
         hewan.status(true);
         System.out.println("Status Suntik Rabies : "+anjing.statusSuntikRabies);
         System.out.println("Status Ganti Air : "+ikan.statusGantiAir);
